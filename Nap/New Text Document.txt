@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Nahapet Arshakyan Illusionist</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    
+  </head>
+  <body>
+    <div class="head" align="center">
+      
+      <h1><img src="https://pbs.twimg.com/profile_images/754950196916805632/ifHx16Bp.jpg" />Nahapet Arshakyan</h1>
+      
+    	<div class="header">
+        <p>Home</p>
+    		<p>News & Activities</p>
+    		<p>Photos & Videos</p>
+    		<p>About</p>
+      	<p>Contacts</p>
+      </div>
+    </div>  
+    <div class="body">
+    <div class="content">
+      <p id="news1"><img src="https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/20156179_1386734251380344_3306570096732740302_n.jpg?oh=1090dd268783a18a02b05fe3e973e2c9&oe=5A068547" /><section>On July 22-26, in Tsakhkadzor, will take place Leonid Engibaryan's Mime Theaters' 6th international festival, where you can find me with my team, as well. We are going to present new and extra saturated program with tricks, unseen in Armenia before.</section></p>
+    </div><br /><br /><br /><br />
+    <div class="footer">&copy; Nahapet Arshakyan Illusionist</div>
+    </div>
+  </body>
+</html>
